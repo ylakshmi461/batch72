@@ -21,19 +21,19 @@ wt dg
 15.git log
 16.git show commit id
 17.touch file2
--------------ppy sankranthi
-kalyani
-hasini
-balu
-mahesh
-chetan
-chedan
-suri
-chintu
------abcdefghijkl
-mnopqrst
-uvwxyz
----------
+
+
+
+
+
+
+
+
+
+
+
+
+
 multipule file adding
 touch file2 file3 file4,,,,,,n
 18.ls
