@@ -6,7 +6,11 @@ git batch in login with my crediancial commands
 5.git config --list
 6.git config -- global unset user name
 7.git config --global unset user email
-----------------------------
+----------------------hello
+alll
+how are zyou
+wt dg
+------
 8.touch file1
 9.ls
 10.git status
